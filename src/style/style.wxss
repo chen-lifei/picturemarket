@@ -1,0 +1,17 @@
+input,
+image,
+swiper,
+swiper-item,
+scroll-view,
+page,
+view,
+navigator,
+uni-segmented-control {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+image {
+    width: 100%;
+    display: block;
+}
